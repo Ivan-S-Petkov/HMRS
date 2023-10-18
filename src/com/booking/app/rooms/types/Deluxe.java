@@ -1,0 +1,27 @@
+package com.booking.app.rooms.types;
+
+import com.booking.app.rooms.Room;
+
+import java.util.List;
+import java.util.Map;
+
+public class Deluxe extends Room {
+
+
+    public Deluxe(int number, Map<String, String> datesBooked, List<String> datesCancelled) {
+        super(number, datesBooked, datesCancelled);
+    }
+
+    @Override
+    public double getPrice() {
+        return 90;
+    }
+    @Override
+    public double getFee() {
+        return 30;
+    }
+    @Override
+    public String getType() {
+        return "Deluxe";
+    }
+}

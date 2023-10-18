@@ -1,0 +1,46 @@
+[
+  {
+    "number": 101,
+    "datesBooked": {},
+    "datesCancelled": [],
+    "type": "Deluxe"
+  },
+  {
+    "number": 102,
+    "datesBooked": {},
+    "datesCancelled": [],
+    "type": "Single"
+  },
+  {
+    "number": 103,
+    "datesBooked": {
+      "30.09.2027": "iva"
+    },
+    "datesCancelled": [],
+    "type": "Double"
+  },
+  {
+    "number": 104,
+    "datesBooked": {},
+    "datesCancelled": [
+      "admin"
+    ],
+    "type": "Single"
+  },
+  {
+    "number": 105,
+    "datesBooked": {},
+    "datesCancelled": [],
+    "type": "Deluxe"
+  },
+  {
+    "number": 201,
+    "datesBooked": {
+      "28.07.2023": "admin",
+      "11.09.0063": "admin",
+      "29.07.2023": "admin"
+    },
+    "datesCancelled": [],
+    "type": "Apartment"
+  }
+]

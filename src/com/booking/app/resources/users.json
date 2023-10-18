@@ -1,0 +1,22 @@
+[
+  {
+    "password": "1000:f3c210b827cf55233abc94c981650f64:adcbdf7bd23c633a54fb74a3f90e1264917fc484f4504efdca633fe1370dbcbd78b3478e7d90759b7ce98a668234bae2f0c8e3da38010a4aa63f10a218e4e850",
+    "admin": false,
+    "username": "ivan"
+  },
+  {
+    "password": "1000:97319390821f289cd9ca94f97975b008:0b2310a6fdc7d958ae0d6ae46cc85c9379d1576dc14147dad505f7810088d4abc7072bd32de1a2716ce20d7860600cbeda9eef9fd8fc1c6f8698b9159a4d4bd2",
+    "admin": true,
+    "username": "admin"
+  },
+  {
+    "password": "1000:ac20b43398bf0961ac98ad65f3eb66b4:b893401b4ec00c7ae2dadabd02b0a84e00f1ceb979217537c2c2bafa5250a0c9e02b022ab87ea7fc8c8d4dcd419e3342b974698c44ffc56cabe94ef8a95b8c25",
+    "admin": false,
+    "username": "iva"
+  },
+  {
+    "password": "1000:2673b3c837df28a9515e40953f5fcb65:36395ec6824229831b684697e8abff87d172c2bf732310ac6e355d8df5c493dc93ad436578ca0a05240fef9d1be2844c191e3bd5db5a2fc759d0c951f3e267b4",
+    "admin": false,
+    "username": "drago"
+  }
+]
